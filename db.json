@@ -1,0 +1,49 @@
+{
+  "movie": [
+    {
+      "id": 1,
+      "movieName": "KingsGlave",
+      "subName": "Final Fantasy XV",
+      "desc": "King Regis, who overseas the lord of Lucus commands his army of soldiers to project the kingdom from the empire's plans to steal the sacred crystal",
+      "rating": 2,
+      "url": "images/kingsglave.jpg",
+      "year": "2016"
+    },
+    {
+      "id": 2,
+      "movieName": "Final Fantasy",
+      "subName": "Spirits Within",
+      "desc": "Final Fantasy is a Japanese science fantasy media franchise created by Hironobu Sakaguchi. The franchise centers on a series of fantasy and science fantasy role-playing video games.",
+      "rating": 3.5,
+      "url": "images/finalFantasy.jpg",
+      "year": "2016"
+    },
+    {
+      "id": 3,
+      "movieName": "Ghost in the Shell",
+      "subName": "Ghost in The Shell",
+      "desc": "In the near future, Major, the first cyber-human, must stop the growing cyber-terrorism. After discovering a secret of her identity, she sets out to learn more about her obscured past.",
+      "rating": 3,
+      "url": "images/ghostShell.jpg",
+      "year": "2016"
+    },
+    {
+      "id": 4,
+      "movieName": "Pursuit of Happiness",
+      "subName": "Pursuit of Happiness",
+      "desc": "Chris Gardner takes up an unpaid internship in a brokerage firm after he loses his life's earnings selling a product he invested in. His wife leaves him and he is left with the custody of his son.",
+      "rating": 5,
+      "url": "images/pursuitOfHappiness.jpg",
+      "year": "2016"
+    },
+    {
+      "id": 5,
+      "movieName": "Dangal",
+      "subName": " Dangal",
+      "desc": "Mahavir Singh Phogat, a former wrestler, decides to fulfil his dream of winning a gold medal for his country.",
+      "rating": 5,
+      "url": "images/dangal.jpg",
+      "year": "2016"
+    }
+  ]
+}

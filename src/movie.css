@@ -1,0 +1,26 @@
+.waterData{
+    position: absolute;
+  
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+ 
+}
+.showData:hover + .waterData{
+    display: ""; 
+}
+.modalData{
+    
+    position: absolute;
+    
+    width: 220px;
+    z-index: 1000;
+    padding: 0px;
+    margin-top: 0px;
+    background-color:rgb(238, 225, 225) ;
+   
+
+}
+input{
+    margin-top: 5px;
+}
