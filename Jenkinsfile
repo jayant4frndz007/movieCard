@@ -5,6 +5,10 @@ pipeline {
     //         args '-p 3000:3000'
     //     }
     // }
+    agent any
+
+    tools {nodejs 'node'}
+
     environment {
         CI = true
     }
@@ -12,6 +16,7 @@ pipeline {
         stage('Build') {
             steps{
                 sh 'npm install'
+                sh 'npm run build'
             }
         }
         stage('test') {
